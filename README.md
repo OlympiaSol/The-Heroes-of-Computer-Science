@@ -21,9 +21,8 @@
 ### Screenshots
 
 #### Main Menu
-![Main Menu](![Uploading image.png…]()
-)
-![Uploading image.png…]()
+![Main Menu](![1](https://github.com/user-attachments/assets/732b7ce6-f724-43b9-a029-b66abb8ac77f))
+
 
 
 #### Choose Character Menu
